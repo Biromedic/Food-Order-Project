@@ -8,8 +8,8 @@ import java.util.Date;
 class DataBaseConnection 
 {
     public static final String DB_URL = "jdbc:mysql://localhost:3306/foodorderv2";
-    public static final String DB_USERNAME = "root";
-    public static final String DB_PASSWORD = "123456789aa!";
+    public static final String DB_USERNAME = "****";
+    public static final String DB_PASSWORD = "****";
     
     public Connection connect;
     private ResultSet resultSet;
